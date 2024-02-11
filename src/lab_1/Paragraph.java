@@ -10,8 +10,5 @@ public class Paragraph {
 			count++;
 		}
 		System.out.println("The length of the paragraph: " + count);
-
-
 	}
-
 }
