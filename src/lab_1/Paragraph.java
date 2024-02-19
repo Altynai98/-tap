@@ -1,4 +1,5 @@
 package lab_1;
+
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Collections; // for the using sort method
@@ -18,7 +19,7 @@ public class Paragraph {
             newParagraphList.add(this.paragraphList[i]);
         }
         Collections.sort(newParagraphList); 
-        
+
         return newParagraphList;
     }
     
